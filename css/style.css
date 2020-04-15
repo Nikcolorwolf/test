@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #fbfbfb;
+}
+.navbar-toggler-icon {
+  color: black;
+}
+.header-phone {
+  color: #1f1f24;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 0 15px;
+  text-decoration: none;
+}
+.header-button {
+  margin: 0 15px;
+}
+.nav-imet {
+  margin: 10px 10px;
+}
+.nav-item a {
+  color: #1f1f24;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 8px 15px
+}
+.nav-item a:hover {
+  text-decoration: none;
+  outline: 1px solid #fc557c;
+  color: #fc557c;
+}
+.nav-item a:focus {
+  text-decoration: none;
+  outline: 1px solid #fc557c;
+  background-color: #fc557c;
+  color: white;
+}
+.aboutme {
+  background-color: #fbfbfb;
+  min-height: 698px;
+}
+.title {
+  padding-top: 208px;
+}
+.title h1 {
+  color: #1f1f24;
+  font-size: 80px;
+  font-weight: 400;
+}
+.title p {
+  color: #8993ad;
+  font-size: 25px;
+  font-weight: 400;
+  padding-top: 22px;
+}
+.button-title {
+  background-color: #ff4e2e;
+  padding: 10px 25px;
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 48px;
+}
+.aboutmeimg {
+  padding-top: 61px;
+  max-width: 100%;
+  max-height: 100%;
+}
+/* idoit */
+.idoit {
+  padding-top: 99px;
+}
+.idoith1 {
+  color: #262626;
+  font-size: 54px;
+  font-weight: 700;
+  padding-bottom: 93px;
+}
+
+/* idoit */
+/* portfolio */
+.portfolio {
+  padding-top: 99px;
+}
+.portfoliobtn {
+  padding: 0 auto;
+}
+/* portfolio */
+/* price */
+.myprice {
+  background-color: #ebebeb;
+  background-image: linear-gradient(13deg, #ff8f5a 0%, #ff2f96 99%, #ff2f96 100%);
+  margin-top: 102px;
+}
+.mypriceh1 {
+  color: #ffffff;
+  font-size: 45px;
+  font-weight: 700;
+  margin-top: 86px;
+}
+.mypricep {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 40px;
+  margin-bottom: 86px;
+}
+/* price */
+/* footer menu */
+.footermenu {
+  padding-top: 77px;
+  padding-bottom: 81px;
+}
+.menufooter {
+  list-style-type: none;
+}
+.menufooterlist {
+}
+.menufooterlink {
+  color: #8993ad;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.footerh2 {
+  color: #000000;
+  font-size: 25px;
+  font-weight: 400;
+}
+.footerh2pa {
+  padding-bottom: 20px;
+}
+.footerh2 img {
+  padding-right: 15px;
+}
+.footersocialicon {
+  padding-top: 31px;
+}
+.footersocialicon img {
+  padding: 0 15px;
+}
+/* footer menu */
+
+footer {
+  height: 70px;
+  background-color: #31293c;
+}
+.footerh1 {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 27px;
+}
